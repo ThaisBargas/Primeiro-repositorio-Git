@@ -1,2 +1,2 @@
 # Primeiro repositorio Git
- Primeiro repositorio versionado
+ Entendendo como funciona o GitHub Desktop! Através das aulas do Guanabara! 
